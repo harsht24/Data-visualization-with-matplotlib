@@ -3,3 +3,4 @@
  1. Line Plot
  2. Bar Plot
  3. Pie Chart
+ 4. Stack Plot
