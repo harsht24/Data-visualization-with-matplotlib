@@ -5,3 +5,4 @@
  3. Pie Chart
  4. Stack Plot
  5. Filling areas on line plot
+ 6. Histograms
