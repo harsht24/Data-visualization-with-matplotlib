@@ -6,3 +6,5 @@
  4. Stack Plot
  5. Filling areas on line plot
  6. Histograms
+ 7. Scatter Plots
+ 8. Plotting time series data
