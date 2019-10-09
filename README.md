@@ -8,3 +8,4 @@
  6. Histograms
  7. Scatter Plots
  8. Plotting time series data
+ 9. Subplots
