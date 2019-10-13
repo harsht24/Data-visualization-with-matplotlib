@@ -9,3 +9,4 @@
  7. Scatter Plots
  8. Plotting time series data
  9. Live Data
+ 10. Subplots
